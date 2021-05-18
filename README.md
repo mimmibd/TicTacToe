@@ -1,4 +1,4 @@
-# 
+# Objective
 The objective of this project was to learn React Hooks. 
 
 Followed Thomas Weibenfalk's tutorial on Scrimba, which was later styled and somewhat refactored. 
